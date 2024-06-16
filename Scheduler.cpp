@@ -1,7 +1,4 @@
-// Andrew Bradley
-// Assignment 1
-// COSC 3360 10751
-// Code work with input redirection
+
 
 #include <iostream>
 #include <vector>
